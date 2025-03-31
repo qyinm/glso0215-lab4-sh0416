@@ -1,3 +1,15 @@
-GLSO0215 LAB4 Seonghyeon
+#Introduction  
+I'm **Seung-u Byeon**, a software engineering enthusiast.  
+I'm currently learning about **Large Language Models (LLMs) and Deep Learning**.  
 
-Seung-u Byeon
+* **Kyungpook National University**  
+* **Major**: Computer Science & Engineering
+
+## Tech Stack  
+| Back-end | Front-end | ML/DL | DevOps & Etc |
+|---|---|---|---|
+| **Spring** | **React** | Pytorch | Docker |
+| NestJS | Next.js | TensorFlow | GitHub Actions |
+| Django | | Hugging Face | AWS |
+
+
